@@ -1,1 +1,1 @@
-# socailBuzz_be
+# socialBuzz_be
